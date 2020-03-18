@@ -1,2 +1,2 @@
 # hello-world
-Pocetak moja githubiranja
+Pocetak mojega githubiranja
