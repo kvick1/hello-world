@@ -1,0 +1,56 @@
+<! DOCTYPE html>
+<html>
+<head>
+  <title>Common CSS Properties</title>
+  <link href="styles.css" rel="stylesheet" type="text/css">
+  <h1>Common CSS Properties</h1>
+</head>
+
+<body>
+  <table>
+    <thead>
+      <tr> <!--title rows-->
+        <th>Property</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tr> <!-- row 1-->
+      <td class="property">opacity</td>
+      <td>From 0 to 1; from transparent text to opaque</td>
+    </tr>
+    <tr>
+      <td class="property">text-align</td>
+      <td>Left, right, or centre; location on page</td>
+    </tr>
+    <tr>
+      <td class="property">font-family</td>
+      <td>Typeface; should be standardised</td>
+    </tr>
+    <tr>
+      <td class="property">font-size</td>
+      <td>Always use px</td>
+    </tr>
+    <tr>
+      <td class="property">font-weight</td>
+      <td>Bold or normal</td>
+    </tr>
+    <tr>
+      <td class="property">color</td>
+      <td>Sets the color of text</td>
+    </tr>
+    <tr>
+      <td class="property">background-color</td>
+      <td>Sets the color of background behind text</td>
+    </tr>
+    <tr>
+      <td class="property">background-image</td>
+      <td>Url("moon.jpg"); puts image into doc</td>
+    </tr>
+  
+  </table>
+  
+</body>
+<footer>
+  <p>Artfully designed by Klara</p>
+</footer>
+</html>
